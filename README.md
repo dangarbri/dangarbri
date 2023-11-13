@@ -1,4 +1,7 @@
 ### Hi there 👋
+I upload minor projects that are interesting to me, mainly for archival purposes. I don't really promote anything.
+I have a professional account [dgarciabriseno](https://github.com/dgarciabriseno) that I use for work.
+[![trophy](https://github-profile-trophy.vercel.app/?username=dangarbri)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **dangarbri/dangarbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
